@@ -1,0 +1,88 @@
+{
+    "products": [
+{
+    "name": "Produto XYZ",
+    "price": 1000,
+    "id": 1,
+    "alt": "Product",
+    "section": "Star Wars"
+},
+{
+    "name": "Produto XYZ",
+    "price": 400,
+    "id": 2,
+    "alt": "Product",
+    "section": "Star Wars"  
+},
+{
+    "name": "Produto XYZ",
+    "price": 80,
+    "id": 3,
+    "alt": "Product",
+    "section": "Star Wars"
+},
+{
+    "name": "Produto XYZ",
+    "price": 70,
+    "id": 4,
+    "alt": "Product",
+    "section": "Star Wars"
+},
+{
+    "name": "Controle XYZ",
+    "price": 170,
+    "id": 5,
+    "alt": "Product",
+    "section": "Consoles"
+},
+{
+    "name": "Console e Controle XYZ",
+    "price": 1000,
+    "id": 6,
+    "alt": "Product",
+    "section": "Consoles"
+},
+{
+    "name": "Console XYZ",
+    "price": 700,
+    "id": 7,
+    "alt": "Product",
+    "section": "Consoles"
+},
+{
+    "name": "Controle XYZ",
+    "price": 80,
+    "id": 8,
+    "alt": "Product",
+    "section": "Consoles"
+},
+{
+    "name": "Camisa Atari",
+    "price": 80,
+    "id": 9,
+    "alt": "Product",
+    "section": "Diversos"
+},
+{
+    "name": "Camisa SNES",
+    "price": 60,
+    "id": 10,
+    "alt": "Product",
+    "section": "Diversos"
+},
+{
+    "name": "Sonic",
+    "price": 70,
+    "id": 11,
+    "alt": "Product",
+    "section": "Diversos"
+},
+{
+    "name": "Console e Controle XYZ",
+    "price": 60,
+    "id": 12,
+    "alt": "Product",
+    "section": "Diversos"
+}
+    ]
+}
